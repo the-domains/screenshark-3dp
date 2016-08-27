@@ -6,9 +6,13 @@ color:
   saturation: 0.34744774433784187
   rhythmicContrast: 0.48835383635014296
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: ScreenShark 3DP
+navigation:
+  - name: About Us
+    id: dd2d14a2-7bb9-402a-8d2a-ee6b9c95be54
+    type: content
