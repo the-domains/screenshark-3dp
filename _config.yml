@@ -1,0 +1,14 @@
+layout_spectrum: 0.9952617967501283
+typography_spectrum: 0.6822573833633214
+color:
+  brandStrength: 0.25892133521847427
+  lightness: 0.35543258604593575
+  saturation: 0.34744774433784187
+  rhythmicContrast: 0.48835383635014296
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: ScreenShark 3DP
