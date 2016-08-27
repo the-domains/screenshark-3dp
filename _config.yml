@@ -16,3 +16,6 @@ navigation:
   - name: About Us
     id: dd2d14a2-7bb9-402a-8d2a-ee6b9c95be54
     type: content
+  - name: 3D Printing with Cinema 4D
+    id: 67452f08-b9ee-441f-b511-651738aa7531
+    type: content
