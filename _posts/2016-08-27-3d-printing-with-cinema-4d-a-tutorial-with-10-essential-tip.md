@@ -27,17 +27,15 @@ description: >-
   high-quality models that are ready for 3D printing.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://i.materialise.com/blog/cinema-4d-3d-printing-tutorial/'
 title: '3D Printing with Cinema 4D: A Tutorial with 10 Essential Tips and Tricks'
-datePublished: '2016-08-27T00:56:11.887Z'
-dateModified: '2016-08-27T00:55:44.298Z'
+datePublished: '2016-08-27T01:09:49.230Z'
+dateModified: '2016-08-27T01:09:48.081Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-27-3d-printing-with-cinema-4d-a-tutorial-with-10-essential-tip.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: 3d-printing-with-cinema-4d-a-tutorial-with-10-essential-tip/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
